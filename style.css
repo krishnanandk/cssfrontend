@@ -1,0 +1,29 @@
+        body {
+            background-color: #4287f5;
+        }
+        
+        h1 {
+            color: red;
+        }
+        
+        div {
+            border: 1px solid beige;
+            height: 400 px;
+            width: 30%;
+            float: left;
+            background-color: burlywood;
+        }
+        
+        div h2 {
+            font-size: medium;
+        }
+        
+        #section1 {
+            background-color: black;
+            color: white
+        }
+        
+        .section2 {
+            background-color: violet;
+            color: yellow;
+        }
