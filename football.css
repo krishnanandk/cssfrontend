@@ -1,0 +1,49 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+div {
+    width: 20%;
+    height: 300px;
+    border: 1px solid: black;
+    float: left;
+}
+
+h2 {
+    text-align: center;
+}
+
+#section1 {
+    color: yellow;
+    background-color: red;
+}
+
+#section2 {
+    color: black;
+    background-color: brown;
+}
+
+#section3 {
+    color: black;
+    background-color: white;
+}
+
+#section4 {
+    color: white;
+    background-color: red;
+}
+
+#section5 {
+    color: white;
+    background-color: blue;
+}
+
+img {
+    width: 25%;
+    height: 50 px;
+}
