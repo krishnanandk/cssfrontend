@@ -1,0 +1,192 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    font-family: 'Alfa Slab One', cursive;
+    text-align: center;
+}
+
+.row1 {
+    width: 1000px;
+    height: 150px;
+    position: absolute;
+    top: 10%;
+    left: 420px;
+}
+
+.col {
+    width: 120px;
+    height: 150px;
+}
+
+.col-first {
+    background-color: grey;
+    position: absolute;
+    top: 10%;
+}
+
+.col-second {
+    background-color: #3b5f4b;
+    position: absolute;
+    top: 10%;
+    left: 13%;
+}
+
+.col-third {
+    background-color: #41ad4e;
+    position: absolute;
+    top: 10%;
+    left: 26%;
+}
+
+.col-fourth {
+    background-color: #4df00c;
+    position: absolute;
+    top: 10%;
+    left: 39%;
+}
+
+.col-fifth {
+    background-color: white;
+    position: absolute;
+    top: 10%;
+    left: 52%;
+}
+
+.row2 {
+    width: 1550px;
+    height: 100px;
+    position: absolute;
+    top: 30%;
+    left: 290px;
+}
+
+.col2 {
+    width: 120px;
+    height: 150px;
+}
+
+.col2-first {
+    background-color: #f5a442;
+    position: absolute;
+    top: 40%;
+}
+
+.col2-second {
+    background-color: #f58742;
+    position: absolute;
+    top: 40%;
+    left: 8.5%;
+}
+
+.col2-third {
+    background-color: #dbbfbf;
+    position: absolute;
+    top: 40%;
+    left: 16.9%;
+}
+
+.col2-fourth {
+    background-color: #6373ad;
+    position: absolute;
+    top: 40%;
+    left: 25.3%;
+}
+
+.col2-fifth {
+    background-color: #0c1e5e;
+    position: absolute;
+    top: 40%;
+    left: 33.5%;
+}
+
+.col2-sixth {
+    background-color: #4b5370;
+    position: absolute;
+    top: 40%;
+    left: 41.8%;
+}
+
+.col2-seventh {
+    background-color: #45464a;
+    position: absolute;
+    top: 40%;
+    left: 50.1%;
+}
+
+.row3 {
+    width: 1550px;
+    height: 100px;
+    position: absolute;
+    top: 50%;
+    left: 160px;
+}
+
+.col3 {
+    width: 120px;
+    height: 150px;
+}
+
+.col3-first {
+    background-color: #4ca6a4;
+    position: absolute;
+    top: 70%;
+}
+
+.col3-second {
+    background-color: #b6cc52;
+    position: absolute;
+    top: 70%;
+    left: 8.5%;
+}
+
+.col3-third {
+    background-color: #c7a538;
+    position: absolute;
+    top: 70%;
+    left: 16.9%;
+}
+
+.col3-fourth {
+    background-color: #8f3a22;
+    position: absolute;
+    top: 70%;
+    left: 25.3%;
+}
+
+.col3-fifth {
+    background-color: #261c18;
+    position: absolute;
+    top: 70%;
+    left: 33.5%;
+}
+
+.col3-sixth {
+    background-color: #2ab0a9;
+    position: absolute;
+    top: 70%;
+    left: 41.8%;
+}
+
+.col3-seventh {
+    background-color: #45734e;
+    position: absolute;
+    top: 70%;
+    left: 50.1%;
+}
+
+.col3-eighth {
+    background-color: #222b42;
+    position: absolute;
+    top: 70%;
+    left: 58.5%;
+}
+
+.col3-ninth {
+    background-color: #171515;
+    position: absolute;
+    top: 70%;
+    left: 66.8%;
+}

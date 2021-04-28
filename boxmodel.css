@@ -1,0 +1,29 @@
+ div {
+     border: 1px solid red;
+     width: 50%;
+     font-size: 30px;
+     font-weight: 800;
+     text-decoration: line-through;
+ }
+ 
+ #first {
+     position: relative;
+     left: 400px;
+ }
+ 
+ #second {
+     position: relative;
+     top: 200px;
+     left: 400px;
+ }
+ 
+ #third {
+     position: relative;
+     top: 400px;
+     left: 400px;
+ }
+ 
+ #inner {
+     position: relative;
+     left: 10%;
+ }

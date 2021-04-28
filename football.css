@@ -8,8 +8,8 @@ h1 {
 }
 
 div {
-    width: 20%;
-    height: 300px;
+    width: 16.6%;
+    height: 370px;
     border: 1px solid: black;
     float: left;
 }
@@ -43,7 +43,14 @@ h2 {
     background-color: blue;
 }
 
+#section6 {
+    color: white;
+    background-color: skyblue;
+}
+
 img {
-    width: 25%;
-    height: 50 px;
+    width: 30%;
+    height: 80px;
+    position: relative;
+    left: 90px;
 }
